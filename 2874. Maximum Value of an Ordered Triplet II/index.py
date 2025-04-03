@@ -1,3 +1,5 @@
+# description link --> https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description
+
 # Solution - 1 /
 # Runtime 169ms / 74%
 # Memory 29.39mb / 87.03%
